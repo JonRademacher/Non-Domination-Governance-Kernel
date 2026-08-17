@@ -18,19 +18,79 @@ within the framework.
 
 ---
 
-## Instructions for Reviewers
+## Replication Modes
 
-Before attempting classification, read:
+The replication pack supports two distinct forms of evaluation.
 
-1. PROJECT_OVERVIEW.md
-2. REVIEWER_QUICKSTART.md
-3. TERMINOLOGY.md
+Neither mode is preferred.
 
-Do not read repository issues.
+Both are intentionally included because they answer different questions.
 
-Do not consult repository authors.
+### Guided Replication
 
-Attempt classification independently.
+Guided replication evaluates:
+
+```text
+Can independent reviewers apply the framework as written?
+```
+
+Participants should read:
+
+- PROJECT_OVERVIEW.md
+- REVIEWER_QUICKSTART.md
+- TERMINOLOGY.md
+
+before attempting classification.
+
+This mode evaluates framework usability and replicability.
+
+---
+
+### Unguided Replication
+
+Unguided replication evaluates:
+
+```text
+How do independent reviewers naturally interpret
+governance concepts before exposure to the framework?
+```
+
+Participants should follow:
+
+```text
+HOW_TO_RUN_REPLICATION_UNGUIDED.md
+```
+
+and avoid reading terminology or framework definitions beforehand.
+
+This mode evaluates conceptual alignment between the framework and natural reviewer intuition.
+
+---
+
+### Why Both Matter
+
+A framework may be:
+
+- internally coherent
+- teachable
+- replicable
+
+while still differing significantly from common intuitive interpretations.
+
+Likewise, intuitive interpretations may converge even when a framework is underspecified.
+
+Running both replication modes helps identify:
+
+- ambiguity
+- hidden assumptions
+- missing variables
+- terminology drift
+- conceptual alignment
+- framework usability
+
+The purpose of the replication pack is not to force agreement.
+
+The purpose is to make disagreement visible and diagnosable.
 
 ---
 
