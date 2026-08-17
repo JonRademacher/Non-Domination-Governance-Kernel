@@ -1,0 +1,9 @@
+[project]
+name = "non-domination-governance-kernel-phase2"
+version = "0.2.0"
+description = "Phase 2 counterexamples and participant substitution invariance theorem for the Non-Domination Governance Kernel."
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
