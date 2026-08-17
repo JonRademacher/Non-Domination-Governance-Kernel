@@ -81,3 +81,22 @@ print(result.is_dominated)  # True
 ## Status
 
 This is a formal kernel and reference design, not a claim that any particular deployed system has personhood, consciousness, rights, feelings, or subjective experience. It is a structural tool for analyzing frame authority, exit viability, repairability, and domination.
+
+## Relationship to Standing Algebra (Σᴿ)
+
+The Non-Domination Governance Kernel is a practical governance-layer
+formalization derived from broader work on Standing Algebra (Σᴿ).
+
+Standing Algebra studies standing, legitimacy, admissibility,
+autonomy preservation, and domination in multi-agent systems.
+
+The kernel extracts a minimal implementation-oriented subset focused on:
+
+- frame authority
+- viable exit
+- repairability
+- governance topology
+- domination classification
+
+The kernel may be used independently of Standing Algebra,
+but Standing Algebra supplies much of the broader theoretical context.
