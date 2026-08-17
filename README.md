@@ -48,7 +48,7 @@ If yes, domination is analyzable regardless of whether the participant is biolog
 - `LICENSE`: MIT License.
 - `CITATION.cff`: Citation metadata template.
 
--## Core Theory Modules
+## Core Theory Modules
 
 - docs/GOVERNANCE_TOPOLOGY.md: graph-style authority, exit, repair, and coupling structure.
 - docs/FRAME_THEORY.md: structural definition of frames independent of phenomenology.
@@ -56,7 +56,7 @@ If yes, domination is analyzable regardless of whether the participant is biolog
 - docs/REPAIR_OPERATORS.md: refusal, suspension, contestation, reframing, migration, amendment, and memory-continuity repairs.
 - docs/PRACTICAL_GOVERNANCE_APPLICATIONS.md: AI governance, institutions, platforms, legal systems, healthcare, data governance, supply chains, and research systems.
 -
-- ## Design Principles
+## Design Principles
 
 1. **Frame structuralism**: A frame is a structured interpretive-governance context, not necessarily a sensory or conscious field.
 2. **Authority localization**: The locus of final authority over frame transformations must be explicit.
