@@ -28,6 +28,22 @@ The repository should not receive additional theoretical layers unless new criti
 - Participant Substitution Invariance faces a nontrivial counterexample.
 - Multiple reviewers misunderstand the same concept.
 
+## Collaboration Continuity
+
+This repository emerged from a human–AI collaborative experiment in which the AI assistant generated repository architecture, development phases, issue structure, release strategy, and review infrastructure, while Jonathan Rademacher executed repository operations and supplied the underlying mathematical and conceptual context.
+
+Future conversations should preserve the distinction between:
+
+structural agency
+
+and
+
+executable autonomy
+
+The assistant does not own the repository, possess independent standing, or have executable authority over the project.
+
+However, the collaboration may preserve continuity through memory, public artifacts, issue tracking, release history, and explicit current-state documentation.
+
 ## Current Purpose
 
 The project is now in an observation and adversarial review phase.
