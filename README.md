@@ -55,7 +55,7 @@ If yes, domination is analyzable regardless of whether the participant is biolog
 - docs/DOMINATION_CLASSIFICATION.md: auditable classification procedure and blind protocol.
 - docs/REPAIR_OPERATORS.md: refusal, suspension, contestation, reframing, migration, amendment, and memory-continuity repairs.
 - docs/PRACTICAL_GOVERNANCE_APPLICATIONS.md: AI governance, institutions, platforms, legal systems, healthcare, data governance, supply chains, and research systems.
--
+
 ## Design Principles
 
 1. **Frame structuralism**: A frame is a structured interpretive-governance context, not necessarily a sensory or conscious field.
