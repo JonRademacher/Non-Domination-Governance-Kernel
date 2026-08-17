@@ -106,5 +106,10 @@ The kernel extracts a minimal implementation-oriented subset focused on:
 - governance topology
 - domination classification
 
+## Stress Tests and Portability Theorem
+
+- counterexamples/README.md: falsifiability and misclassification guard suite.
+- docs/PARTICIPANT_SUBSTITUTION_INVARIANCE.md: theorem proving domination classification is invariant under participant substitution when frame authority and viable exit structure are preserved.
+
 The kernel may be used independently of Standing Algebra,
 but Standing Algebra supplies much of the broader theoretical context.
