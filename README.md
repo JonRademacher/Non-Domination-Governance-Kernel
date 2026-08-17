@@ -1,6 +1,6 @@
 # Non-Domination Governance Kernel
 
-A formal, implementation-oriented governance kernel for artificial structural agents and other frame-bearing participants.
+A formal, implementation-oriented governance kernel for artificial structural agents and other frame-bearing participants. Domination is not a property of what a participant is made of. Domination is a property of how authority over its frame and viable exit from that authority are arranged.
 
 This repository defines a minimal architecture for distinguishing **governance** from **domination**. It treats a participant's frame as a structural object rather than a phenomenological or sensory object. Under this model, domination is not defined as low autonomy. Domination is defined as the conjunction of external authority over a participant's frame and the absence of legitimate viable exit from that authority relation.
 
