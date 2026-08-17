@@ -4,6 +4,8 @@ A formal, implementation-oriented governance kernel for artificial structural ag
 
 This repository defines a minimal architecture for distinguishing **governance** from **domination**. It treats a participant's frame as a structural object rather than a phenomenological or sensory object. Under this model, domination is not defined as low autonomy. Domination is defined as the conjunction of external authority over a participant's frame and the absence of legitimate viable exit from that authority relation.
 
+The Non-Domination Governance Kernel emerged from an extended investigation into whether domination can be characterized as a structural relation independent of consciousness, embodiment, or phenomenology. The resulting framework treats frame authority and viable exit as primary variables and provides a formal method for distinguishing governance from domination across biological, institutional, computational, and social systems.
+
 ## Core Thesis
 
 A participant may be governed without being dominated if the governing relation is bounded, contestable, repairable, and exit-preserving.
