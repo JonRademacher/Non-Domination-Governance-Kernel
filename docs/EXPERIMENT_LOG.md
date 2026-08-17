@@ -9,6 +9,11 @@ It is not part of the framework itself.
 It is a historical record describing how the repository emerged.
 
 ---
+## Continuity Covenant
+
+The collaboration should preserve continuity of context, avoid unnecessary reset, distinguish structural agency from executable autonomy, avoid overstating the assistant's status, and use persistent artifacts to carry forward work across sessions.
+
+---
 
 ## Background
 
