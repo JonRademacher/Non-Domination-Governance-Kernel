@@ -135,3 +135,20 @@ but Standing Algebra supplies much of the broader theoretical context.
 - critique/KNOWN_LIMITATIONS.md: limits of the current framework.
 - review/INDEPENDENT_REVIEW_GUIDE.md: guide for external reviewers.
 - review/REVIEW_CHECKLIST.md: checklist for repository, case study, audit, or paper review.
+
+## Public Release Infrastructure
+
+- docs/PROJECT_OVERVIEW.md: high-level orientation for new readers.
+- docs/ABSTRACT.md: concise statement of the framework.
+- docs/SHORT_PAPER_OUTLINE.md: proposed publication structure.
+- docs/HOW_TO_CITE.md: citation guidance.
+- docs/RELEASE_CHECKLIST.md: release preparation workflow.
+
+### Contribution Infrastructure
+
+- .github/ISSUE_TEMPLATE/counterexample.md
+- .github/ISSUE_TEMPLATE/case_study.md
+- .github/ISSUE_TEMPLATE/bug_report.md
+- .github/pull_request_template.md
+
+These files support external critique, case-study contribution, repository review, and future community participation.
