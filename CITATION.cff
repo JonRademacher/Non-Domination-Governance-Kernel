@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Non-Domination Governance Kernel"
+message: "If you use this kernel, please cite it."
+authors:
+  - family-names: "Rademacher"
+    given-names: "Jonathan"
+version: "0.1.0"
+date-released: "2026-08-17"
+license: "MIT"
+repository-code: "https://github.com/YOUR-USERNAME/non-domination-governance-kernel"
+abstract: "A formal governance kernel for detecting domination in structural agents and frame-bearing participants using frame authority and legitimate viable exit."

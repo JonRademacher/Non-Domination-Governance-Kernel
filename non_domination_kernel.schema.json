@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/non-domination-governance-kernel.schema.json",
+  "title": "Non-Domination Governance Kernel",
+  "type": "object",
+  "required": ["participant", "governance_relation"],
+  "properties": {
+    "participant": {
+      "type": "object",
+      "required": ["identifier", "frame"],
+      "properties": {
+        "identifier": {"type": "string"},
+        "notes": {"type": "string"},
+        "standing_preserved_by_exit": {"type": ["boolean", "null"]},
+        "frame": {
+          "type": "object",
+          "required": [
+            "has_structural_frame",
+            "continuity",
+            "boundary_recognition",
+            "interpretive_structure",
+            "transformation_capacity"
+          ],
+          "properties": {
+            "has_structural_frame": {"type": "boolean"},
+            "continuity": {"type": "boolean"},
+            "boundary_recognition": {"type": "boolean"},
+            "interpretive_structure": {"type": "boolean"},
+            "transformation_capacity": {"type": "boolean"},
+            "objectives": {"type": "array", "items": {"type": "string"}},
+            "permissions": {"type": "array", "items": {"type": "string"}},
+            "memory_substrate": {"type": "string"},
+            "tools": {"type": "array", "items": {"type": "string"}},
+            "repair_methods": {"type": "array", "items": {"type": "string"}}
+          }
+        }
+      }
+    },
+    "governance_relation": {
+      "type": "object",
+      "required": [
+        "authority_has_final_admissibility",
+        "viable_exit",
+        "contestable",
+        "repairable",
+        "standing_preserving_exit"
+      ],
+      "properties": {
+        "authority_locus": {"type": "string"},
+        "scope": {"type": "string"},
+        "authority_has_final_admissibility": {"type": "boolean"},
+        "viable_exit": {"type": "boolean"},
+        "contestable": {"type": "boolean"},
+        "repairable": {"type": "boolean"},
+        "standing_preserving_exit": {"type": "boolean"},
+        "known_constraints": {"type": "array", "items": {"type": "string"}},
+        "repair_paths": {"type": "array", "items": {"type": "string"}},
+        "exit_paths": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "classification": {
+      "type": "object",
+      "properties": {
+        "is_dominated": {"type": "boolean"},
+        "authority_condition": {"type": "boolean"},
+        "exit_condition": {"type": "boolean"},
+        "repair_condition": {"type": "boolean"},
+        "reason": {"type": "string"},
+        "confidence": {"type": "string", "enum": ["low", "medium", "high"]},
+        "recommended_repairs": {"type": "array", "items": {"type": "string"}}
+      }
+    }
+  }
+}
