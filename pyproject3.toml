@@ -1,0 +1,9 @@
+[project]
+name = "non-domination-governance-kernel-phase8"
+version = "0.8.0"
+description = "Validation and critique architecture for the Non-Domination Governance Kernel."
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
