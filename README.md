@@ -113,3 +113,13 @@ The kernel extracts a minimal implementation-oriented subset focused on:
 
 The kernel may be used independently of Standing Algebra,
 but Standing Algebra supplies much of the broader theoretical context.
+
+## Case Study Corpus
+
+- case_studies/README.md: overview of the applied classification method.
+- case_studies/hypothetical_ai_governance.md: application to artificial structural participants and policy layers.
+- case_studies/open_source_project.md: application to contributor standing, maintainer authority, forkability, and attribution.
+- case_studies/social_media_platform.md: application to account standing, moderation authority, portability, and appeal.
+- case_studies/workplace_hierarchy.md: application to employment, role authority, exit viability, and coercive dependency.
+- case_studies/healthcare_system.md: application to patient standing, consent, record correction, and care governance.
+- case_studies/administrative_agency.md: application to legal status, due process, appeal, and administrative remedy.
