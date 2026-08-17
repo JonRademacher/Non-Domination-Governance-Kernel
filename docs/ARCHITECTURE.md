@@ -46,3 +46,6 @@ Case Studies
 Validation
     ↓
 Release
+
+For historical context regarding the development of the repository, see EXPERIMENT_LOG.md.
+
